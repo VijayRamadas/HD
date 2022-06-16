@@ -1,0 +1,25 @@
+1.Create the repository in the remote 
+2.Clone the repository using the command - git clone ip details.
+3.Create the file in local place and addd the context
+4.Check the status "git status"
+5. Add the file local repository
+6. Commit the file "git commit -m(message)"
+7. Push the rep0sitory "git push origin main"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
