@@ -3,8 +3,8 @@
 3.Create the file in local place and addd the context
 4.Check the status "git status"
 5.Add the file local repository
-6. Commit the file "git commit -m(message)"
-7. Push the rep0sitory "git push origin main"
+6.Commit the file "git commit -m(message)"
+7.Push the rep0sitory "git push origin main"
 
 
 
